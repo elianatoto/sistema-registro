@@ -2,3 +2,8 @@
 
 
 -Estado del proyecto: En construncción
+
+
+para ejecutar el sistea, debes poner:
+
+´´´ npm install react´´´

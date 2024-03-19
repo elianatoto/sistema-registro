@@ -7,3 +7,5 @@
 para ejecutar el sistea, debes poner:
 
 ´´´ npm install react´´´
+
+sistema de registro 2 
